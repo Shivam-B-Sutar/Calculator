@@ -1,3 +1,3 @@
 ## Calculator
 
-This is a All-in-one calculator programm built in python.
+This is a Simple & All-in-one calculator programm built in python.
